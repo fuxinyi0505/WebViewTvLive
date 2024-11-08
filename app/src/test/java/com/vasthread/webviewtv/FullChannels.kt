@@ -157,3 +157,14 @@ val fullChannels = mutableListOf<Channel>()
         Channel("VOA English TV", "", listOf("https://www.voanews.com/live/video/116")),
         Channel("VOA LIVE", "", listOf("https://www.voanews.com/live/video/126")),
     )
+.addChannels(
+        "湖北",
+        Channel("湖北卫视", "", listOf("https://news.hbtv.com.cn/app/tv/431")),
+        Channel("湖北经视", "", listOf("https://news.hbtv.com.cn/app/tv/432")),
+        Channel("湖北综合", "", listOf("https://news.hbtv.com.cn/app/tv/433")),
+        Channel("湖北公共", "", listOf("https://news.hbtv.com.cn/app/tv/434")),
+        Channel("湖北影视", "", listOf("https://news.hbtv.com.cn/app/tv/435")),
+        Channel("湖北生活", "", listOf("https://news.hbtv.com.cn/app/tv/436")),
+        Channel("湖北教育", "", listOf("https://news.hbtv.com.cn/app/tv/437")),
+        Channel("湖北垄上", "", listOf("https://news.hbtv.com.cn/app/tv/438")),
+    )    
